@@ -1,13 +1,13 @@
 ---
-title: "Domestic Violence"
-date: 2020-05-25T11:22:41Z
-draft: true
+title: Domestic Violence
+draft: false
+date: 2020-05-25T11:22:41.000Z
 image: /images/uploads/bg_2.jpg
 tags:
-- domestic
-- violence
+  - domestic
+  - violence
 categories:
-- women
+  - women
 ---
 
 The Census of India 2011 defines 'houseless household' as, 'households who do not live in buildings or census houses but live in the open on roadside, pavements, in huge pipes, under flyovers and staircases, or in the open in places of worship, mandaps, railway platforms, etc.” 
