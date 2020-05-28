@@ -19,7 +19,7 @@ sections:
   label: About
   create: all
   match: "**/*"
-upload_dir: images/uploads
+upload_dir: static/images/uploads
 public_path: "/images/uploads"
 front_matter_path: ''
 use_front_matter_path: false
