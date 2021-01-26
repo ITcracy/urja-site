@@ -26,7 +26,7 @@
         </li>
         {{ else }}
         <li class="nav-item {{ if $active }} active {{ end }}">
-          <a href="{{ .URL }}" class='{{ if (eq (lower .Name) "donate") }}btn btn-bg-red-text-primary btn-lg{{ else }}nav-link{{ end }}'>
+          <a {{ if (eq (lower .Name) "donate") }}target="_blank"{{ end }} href="{{ .URL }}" class='{{ if (eq (lower .Name) "donate") }}btn btn-bg-red-text-primary btn-lg{{ else }}nav-link{{ end }}'>
             {{ .Name }}
           </a>
         </li>
