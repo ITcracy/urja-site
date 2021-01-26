@@ -5,18 +5,19 @@ type: donate
 slides:
 - hero_image: "/images/uploads/girls.jpg"
   text: Donate
-  footer_text: 
-  button_link: 
-  button_text: 
+  footer_text:
+  button_link:
+  button_text:
 description: Stand in solidarity with homeless young women in their journey to break free from violence and build a life of dignity for themselves. Your donations will assist us to reach out to more homeless young women and ensure that they have access to services and their rights to lead a violence free and dignified life.
 donate_button_text: DONATE
 
 ---
+
 ### **You can directly donate to our bank accounts:**
 
 
 **Local (for Indian Nationals and NRIs):**
-- Organisation Name: Urja Trust 
+- Organisation Name: Urja Trust
 - Savings A/C No.: 316702010046863
 - Bank Name:  Union Bank Of India ,
 - Address: Ashok Complex, Range Road , Dadar (West), Mumbai- 400028
