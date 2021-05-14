@@ -31,5 +31,3 @@ fields:
 - type: file
   name: desc_image
   label: Description Image
-pages:
-- content/get_involved/csr_philantrophy/_index.md
