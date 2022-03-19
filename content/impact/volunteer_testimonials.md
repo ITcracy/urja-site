@@ -1,5 +1,5 @@
 ---
-title: Volunteer Testimonials
+title: Co-traveller Testimonials
 testimonials:
 - image: "/images/uploads/impact_volunteer_cherie.jpg"
   name: Cherie,volunteer, Australia.
