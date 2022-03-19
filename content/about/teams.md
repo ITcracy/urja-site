@@ -5,13 +5,6 @@ board:
   title: Our Board
   subtitle: Behind the scenes
   members:
-  - name: KP
-    about: Advisory Board Member
-    image: ''
-    role: ''
-    facebook: ''
-    twitter: ''
-    instagram: ''
   - name: Deepali Vandana
     image: https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg
     role: Co-founder
@@ -56,6 +49,25 @@ board:
       for the rights of women and Urja proved to be the perfect avenue to actualize
       her passion. She works with renewed dedication with our young women and is the
       link between them and the opportunities provided by the outside world.
+  - name: Dr. Roshni Nair-Shaikh
+    image: https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg
+    role: Trustee
+    facebook: ''
+    twitter: ''
+    instagram: ''
+    about: 'Roshni has been working as a Faculty with the Centre for Criminology and
+      Justice (CCJ), School of Social Work, TISS, Mumbai since 2006.Prior to 2006,
+      worked for twelve years with an NGO she was a founder member of, which has done
+      pioneering work in the area of street living youth and runaway girls. She has
+      also been part of networks, advocacy related programs, curriculum building and
+      training. She is engaged with designing and conducting sessions related to self
+      and personal and professional effectiveness. She is also connected with themes
+      of child and youth rights, work with victims, criminal justice social work and
+      a focus on self. Of twenty-seven years of a career connected with Social Work,
+      she has spent equal time being a social work practitioner and educator. Roshni
+      has completed her MA in Social Work with a specialization in Criminology and
+      Correctional Administration (TISS-1993) and Ph.D. in Social Work (TISS-2015)
+      with a focus on Field Work in Criminology and Justice. '
   - name: Altaf Shaikh
     image: https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg
     role: Co-founder
@@ -76,25 +88,13 @@ board:
       and physical capacities, things that may have been corroded over years. Altaf’s
       expertise has been strengthening and conditioning the foundation of the organization
       and encouraging the journey forward.
-  - name: Dr. Roshni Nair-Shaikh
-    image: https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg
-    role: Co-founder
+  - name: KP
+    about: Advisory Board Member
+    image: ''
+    role: ''
     facebook: ''
     twitter: ''
     instagram: ''
-    about: 'Roshni has been working as a Faculty with the Centre for Criminology and
-      Justice (CCJ), School of Social Work, TISS, Mumbai since 2006.Prior to 2006,
-      worked for twelve years with an NGO she was a founder member of, which has done
-      pioneering work in the area of street living youth and runaway girls. She has
-      also been part of networks, advocacy related programs, curriculum building and
-      training. She is engaged with designing and conducting sessions related to self
-      and personal and professional effectiveness. She is also connected with themes
-      of child and youth rights, work with victims, criminal justice social work and
-      a focus on self. Of twenty-seven years of a career connected with Social Work,
-      she has spent equal time being a social work practitioner and educator. Roshni
-      has completed her MA in Social Work with a specialization in Criminology and
-      Correctional Administration (TISS-1993) and Ph.D. in Social Work (TISS-2015)
-      with a focus on Field Work in Criminology and Justice. '
 team:
   title: Our Team
   subtitle: We believe in diversity and inclusivity. Our team comprises young professionals
