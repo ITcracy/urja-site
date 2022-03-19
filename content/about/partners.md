@@ -4,6 +4,9 @@ date: 2020-08-16T06:56:58.000+00:00
 banner: "/images/uploads/bg_3.jpg"
 partners_title: Partners
 partners:
+- name: Azim Premji Foundation
+  image: "/images/uploads/logo-apf.jpg"
+  about: ''
 - name: MINISTRY OF WOMEN AND CHILD DEVELOPMENT
   image: "/images/uploads/about_partner_minestry.jpeg"
   about: something about partner
@@ -19,7 +22,9 @@ partners:
 - name: 'SKLPC (UK) '
   image: "/images/uploads/About_Partner_ConnectFor.png"
   about: Something about partner
-partners_content: The continued support of our partners, funders and individual well wishers and donors have helped us in strengthening and amplifying the voices of homeless young women.
+partners_content: The continued support of our partners, funders and individual well
+  wishers and donors have helped us in strengthening and amplifying the voices of
+  homeless young women.
 funders_title: Funders
 funders:
 - name: Rotary Club of Bombay Bayview
@@ -43,7 +48,9 @@ funders:
 - name: Yes Foundation
   image: "/images/uploads/About_Funder_Yes.png"
   about: something about funder
-funders_content: The continued support of our partners, funders and individual well wishers and donors have helped us in strengthening and amplifying the voices of homeless young women.
+funders_content: The continued support of our partners, funders and individual well
+  wishers and donors have helped us in strengthening and amplifying the voices of
+  homeless young women.
 menu:
   nav:
     parent: About
@@ -51,4 +58,4 @@ menu:
     weight: 6
 
 ---
-_The continued support of our partners, funders and individual well wishers and donors have helped us in strengthening and amplifying the voices of homeless young women._
+_The continued support of our partners, funders and individual well wishers and donors have helped us in strengthening and amplifying the voices of homeless young women and LBT+ youth._
