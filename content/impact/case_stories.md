@@ -1,5 +1,5 @@
 ---
-title: Case Stories
+title: Stories of change
 date: 2020-08-16T06:56:58.000+00:00
 banner: "/images/uploads/bg_3.jpg"
 story_1:
