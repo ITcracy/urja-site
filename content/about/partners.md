@@ -4,9 +4,6 @@ date: 2020-08-16T06:56:58.000+00:00
 banner: "/images/uploads/bg_3.jpg"
 partners_title: Partners
 partners:
-- name: Azim Premji Foundation
-  image: "/images/uploads/logo-apf.jpg"
-  about: ''
 - name: MINISTRY OF WOMEN AND CHILD DEVELOPMENT
   image: "/images/uploads/about_partner_minestry.jpeg"
   about: something about partner
