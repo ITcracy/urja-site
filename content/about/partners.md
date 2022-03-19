@@ -1,5 +1,5 @@
 ---
-title: Partners/Funders
+title: Our Partners
 date: 2020-08-16T06:56:58.000+00:00
 banner: "/images/uploads/bg_3.jpg"
 partners_title: Partners
